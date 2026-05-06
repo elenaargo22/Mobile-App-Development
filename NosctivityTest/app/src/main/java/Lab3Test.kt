@@ -1,0 +1,2 @@
+class Lab3Test {
+}
