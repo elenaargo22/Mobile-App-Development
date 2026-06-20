@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">LayoutsAndActions</string>
+    <string name="hello_string" translatable="false">Hello There From xml file</string>
+    <string name="android_awesome" translatable="false">Android is so awesome</string>
+    <string name="birth" translatable="false">hi</string>
+    <string name="write_to_logcat" translatable="false">Write to logcat</string>
+    <string name="write_to_logcat_listener" translatable="false">Write To LogCat - Listener</string>
+    <string name="toast" translatable="false">Show toast</string>
+    <string name="write_something" translatable="false">We write here something</string>
+    <string name="write_textview" translatable="false">Write to TextView</string>
+    <string name="data_binding_should_work_here" translatable="false">j</string>
+    <string name="update_user" translatable="false">Update user data</string>
+</resources>

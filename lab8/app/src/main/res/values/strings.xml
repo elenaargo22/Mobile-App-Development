@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab 8</string>
+    <string name="go_to_second_activity">Go To 2nd Activity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_second_activity_fragment_btn">Go to 2nd Fragment</string>
+    <string name="go_to_third_act_fr_btn">Go to 3rd Fragment</string>
+    <string name="go_to_act_Act_btn">Go to Actions Activity</string>
+    <string name="go_to_first_fr_btn">Go back to Main</string>
+    <string name="write_to_logcat">Write to LogCat</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="write_to_edittext">Write to EditText</string>
+    <string name="edittext_hint">Type something here</string>
+
+</resources>
