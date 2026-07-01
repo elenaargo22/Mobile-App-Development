@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <style name="Theme.Lab12" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab9" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Lab9" parent="Base.Theme.Lab9" />
+>>>>>>> 28f35cdad50f472f125f8dda9f63a355e96a5d97
 </resources>
